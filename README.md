@@ -1,4 +1,4 @@
-# Quantum-Assisted Emergency Communication Network for Gaza
+# Quantum-Assisted Emergency Communication Network 
 
 ## Overview
 A smart, AI + Quantum-inspired emergency communication network for Gaza.
@@ -14,4 +14,5 @@ venv\Scripts\activate
 2. Install dependencies:
 pip install -r requirements.txt
 3. Run Streamlit:
+
 streamlit run src\main.py
